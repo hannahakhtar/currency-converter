@@ -1,9 +1,9 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Home from "./pages/Home";
+import Home from "./pages/home/Home";
 import CurrencyList from "./pages/currencyList/CurrencyList";
-import CurrencyConverter from "./pages/CurrencyConverter";
-import NotFoundPage from "./pages/NotFoundPage";
+import CurrencyConverter from "./pages/currencyConverter/CurrencyConverter";
+import NotFoundPage from "./pages/notFoundPage/NotFoundPage";
 
 const App = () => {
   return (
