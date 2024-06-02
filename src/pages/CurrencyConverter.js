@@ -1,6 +1,7 @@
 const CurrencyConverter = () => {
+
   return (
-    <p>Currency Converter</p>
+    <h1>Currency Converter</h1>
   )
 }
 
